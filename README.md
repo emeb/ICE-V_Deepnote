@@ -15,8 +15,9 @@ control the pitch and stereo pan. The 16-bit digital audio is converted to
 stereo analog with a simple PDM DAC. Here's an audio sample of what it sounds
 like:
 
-![Deepnote](<video src="docs/deepnote_0.mov" controls="controls" style="max-width: 730px;">
-</video>)
+
+https://user-images.githubusercontent.com/1132011/178813133-3e3789b6-65ca-4154-8fe1-3cc6ce513d8f.mov
+
 
 ## Prerequisites
 
