@@ -1,0 +1,80 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Thu Jun 16 04:54:16 2022
+[*]
+[dumpfile] "/home/ericb/Engineering/KBADC/lattice/icebreaker_riscv/sim_snd/tb_sndgen.vcd"
+[dumpfile_mtime] "Thu Jun 16 04:52:35 2022"
+[dumpfile_size] 53430771
+[savefile] "/home/ericb/Engineering/KBADC/lattice/icebreaker_riscv/sim_snd/tb_sndgen.gtkw"
+[timestart] 4868700000
+[size] 1906 841
+[pos] -1 -1
+*-27.438986 5495591000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_sndgen.
+[treeopen] tb_sndgen.uut.
+[sst_width] 297
+[signals_width] 209
+[sst_expanded] 1
+[sst_vpaned_height] 242
+@200
+-Top
+@22
+tb_sndgen.addr[7:0]
+@28
+tb_sndgen.clk
+@22
+tb_sndgen.din[31:0]
+@28
+tb_sndgen.pdm[1:0]
+tb_sndgen.reset
+tb_sndgen.snd_sel
+@22
+tb_sndgen.we[3:0]
+@200
+-UUT
+@22
+tb_sndgen.uut.addr[7:0]
+tb_sndgen.uut.amp[15:0]
+@8420
+tb_sndgen.uut.audio_l[15:0]
+@22
+tb_sndgen.uut.audio_r[15:0]
+@28
+tb_sndgen.uut.clk
+tb_sndgen.uut.cs
+@22
+tb_sndgen.uut.din[31:0]
+tb_sndgen.uut.frq[31:0]
+@8420
+tb_sndgen.uut.lg[31:0]
+@28
+tb_sndgen.uut.pdm[1:0]
+tb_sndgen.uut.pdm_clk_en
+@22
+tb_sndgen.uut.phs[31:0]
+@28
+tb_sndgen.uut.reset
+@8022
+tb_sndgen.uut.rg[31:0]
+@8420
+tb_sndgen.uut.saw[15:0]
+@8022
+tb_sndgen.uut.sqr[15:0]
+@22
+tb_sndgen.uut.we[3:0]
+@200
+-updm_l
+@28
+tb_sndgen.uut.updm_l.clk
+tb_sndgen.uut.updm_l.clk_en
+@8421
+tb_sndgen.uut.updm_l.data[15:0]
+@22
+tb_sndgen.uut.updm_l.ob[15:0]
+@28
+tb_sndgen.uut.updm_l.pdm
+tb_sndgen.uut.updm_l.reset
+@22
+tb_sndgen.uut.updm_l.sd_acc[16:0]
+[pattern_trace] 1
+[pattern_trace] 0
